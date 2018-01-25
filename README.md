@@ -13,6 +13,9 @@ The iOS App has the following functions:
 4. Detail Pages with Albums and Posts tabs.
 5. Mark Favorites and Facebook Share - social networking features using the Facebook SDK.
 
-![image](https://github.com/Caoyoung1991/Facebook-Search-iOS/tree/master/githubimg/iOS_1.jpg)
-![image](https://github.com/Caoyoung1991/Facebook-Search-iOS/tree/master/githubimg/iOS_2.jpg)
-![image](https://github.com/Caoyoung1991/Facebook-Search-iOS/tree/master/githubimg/iOS_3.jpg)
+![image](https://github.com/Caoyoung1991/Facebook-Search-iOS/blob/master/githubimg/iOS_1.jpg)
+
+![image](https://github.com/Caoyoung1991/Facebook-Search-iOS/blob/master/githubimg/iOS_2.jpg)
+
+![image](https://github.com/Caoyoung1991/Facebook-Search-iOS/blob/master/githubimg/iOS_3.jpg)
+
